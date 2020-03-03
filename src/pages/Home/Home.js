@@ -1,5 +1,5 @@
 import React from 'react';
-import {Paper, InputBase, IconButton, Container, CircularProgress, Box} from "@material-ui/core";
+import {Paper, IconButton, Container, CircularProgress, Box} from "@material-ui/core";
 import {Search} from '@material-ui/icons';
 import "./Home.css";
 import {getDog} from "../../api/dog";
