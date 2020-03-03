@@ -1,0 +1,24 @@
+.img{
+    width: 100px;
+    height: auto;
+    margin: 0 30px;
+}
+.form{
+    display: flex;
+}
+
+.form .MuiInputBase-root{
+    width: 100%;
+}
+
+.form .MuiInputBase-input{
+    padding: 0 10px;
+}
+
+input[name=search]{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: none;
+    border: 1px solid black;
+    padding: 0 5px;
+}
